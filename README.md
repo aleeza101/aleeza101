@@ -1,16 +1,14 @@
-## Hi there 👋
+## About me
 
-<!--
-**aleeza101/aleeza101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Aleeza Sadiq, a Statistics & Economics student at the University of Virginia with a minor in Data Science. I'm passionate about machine learning, macroeconomic research, and animal welfare.
 
-Here are some ideas to get you started:
+I’m on a journey to blend statistical modeling, business strategy, and data-driven insights to solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 About Me
+- 📊 Currently Studying: Statistics & Economics (BAS), Minor in Data Science @ UVA (Class of 2026)
+- 🏆 Awards: 2nd Place, USPROC Introductory Statistics Class Project (2024)
+- 🐾 Passionate About: Animal welfare, automation in business, and economic trends
+- 🔍 Currently Exploring: Machine learning applications in finance & predictive analytics
+- 🧠 Learning: Advanced Python, R, and SQL for data analysis
+- 💡 Goal: Leverage data science to drive strategic decision-making
+- ✈️ Fun Fact: I collect snow globes from every place I visit!
